@@ -6,7 +6,8 @@ const ALLOWED_DOMAINS = [
     "my.plentysystems.com",
     "plentymarkets-cloud-hq.com",
     "plentymarkets-cloud-de.com",
-    "plentymarkets-cloud-ie.com"
+    "plentymarkets-cloud-ie.com",
+    "backend.local.plenty.rocks"
 ];
 
 const toggleLangBtn = document.getElementById("toggleLangBtn");
