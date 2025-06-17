@@ -18,7 +18,7 @@ Follow these simple steps to install the "PlentyONE Language Switcher" extension
 
 ### Step 1: Download and Extract the Extension
 
-1.  **Download the ZIP file:** Obtain the extension's ZIP file (e.g., `PlentyOneLangSwitcher.zip`) from the releases [here](https://github.com/mbirnbach/PlentyONE-Language-Changer/releases).
+1.  **Download the ZIP file:** Obtain the extension's ZIP file (e.g., `PlentyOneLangSwitcher.zip`) from the releases [here](https://github.com/mbirnbach/PlentyONE-Language-Changer/releases/latest).
 
 2.  **Extract the contents:** Unzip the downloaded file into a new, empty folder on your computer. You can name this folder anything you like, for example, `PlentyOneLangSwitcher`.
 
